@@ -6,7 +6,7 @@ When creating new conda environment, simply run below command
 ## Installation
 ```bash
 ptyhon setup.py install
-'''
+```
 
 ## Included Package
 * numpy>=1.15.4',
